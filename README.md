@@ -1,27 +1,41 @@
-Hi, I’m Gailyn.
+# Hi, I'm Gailyn 👋
 
-I’m transitioning into a Creative AI Practitioner role, combining Azure cloud foundations with AI-powered content systems.
+Welcome to my Creative AI Portfolio.
 
----
+I'm building practical projects at the intersection of:
+
+- 🤖 Artificial Intelligence
+- 🛡️ Cybersecurity
+- 🧠 AI Trust & Safety
+- 💼 Business Operations
+- ✍️ Technical Communication
 
 ## 🎯 Current Focus
 
-- Azure Fundamentals (AZ-900)
-- Core cloud architecture (RBAC, Networking, Resource Groups)
-- AI workloads (Computer Vision, NLP, Responsible AI)
-- Generative AI + Creative Deployment
+- Building real AI and cybersecurity projects
+- Learning Python through practical tools
+- Developing Git & GitHub skills
+- Expanding my knowledge of Azure AI and cloud technologies
+- Creating a professional portfolio that demonstrates continuous learning
+
+## 🚀 Current & Planned Projects
+
+- AI Security Fundamentals
+- InternWatch
+- AI Learning Journal
+- Python Mini Projects
+- Cybersecurity Labs
+- Prompt Library
+- Ride Home (Future Project)
+
+## 🌱 My Philosophy
+
+I believe the best way to learn is by building.
+
+Every project in this portfolio represents another step in my journey toward becoming an AI professional.
+
+> **Build evidence, not just knowledge.**
 
 ---
 
-## 🚀 Planned Projects
-
-1. AI Devotional Micro-System (Azure Storage + AI content workflow)
-2. Sentiment Analysis Demo using Azure AI Language
-3. Responsible AI mini case study
-4. Creative AI architecture diagram (Prompt → AI → Cloud → Publish)
-
----
-
-## 🧠 Long-Term Direction
-
-Building cloud-based AI systems for creative media, voice, and generative storytelling.
+Thanks for visiting my portfolio!
