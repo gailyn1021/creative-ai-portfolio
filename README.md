@@ -1,39 +1,58 @@
 # Hi, I'm Gailyn 👋
 
-Welcome to my Creative AI Portfolio.
+I design practical AI workflows, knowledge management systems, and operational solutions that help people and organizations work smarter.
 
-I'm building practical projects at the intersection of:
+This portfolio showcases the projects, systems, and case studies I'm building as I grow my career in AI Operations, AI Enablement, and Human-Centered AI.
 
-- 🤖 Artificial Intelligence
-- 🛡️ Cybersecurity
-- 🧠 AI Trust & Safety
-- 💼 Business Operations
-- ✍️ Technical Communication
+## 💼 Core Focus Areas
 
-## 🎯 Current Focus
+- AI Operations
+- Knowledge Management
+- Workflow Design
+- AI Enablement
+- Prompt Engineering
+- Human-Centered AI
 
-- Building real AI and cybersecurity projects
-- Learning Python through practical tools
-- Developing Git & GitHub skills
-- Expanding my knowledge of Azure AI and cloud technologies
-- Creating a professional portfolio that demonstrates continuous learning
+## 🚀 Featured Projects
 
-## 🚀 Current & Planned Projects
+### 🐾 DOG OS
+A personal AI operating system designed to organize knowledge, AI workflows, strategic planning, and daily execution into one repeatable system.
+
+**Skills Demonstrated**
+- AI Operations
+- Knowledge Management
+- Workflow Design
+- Prompt Engineering
+- Systems Thinking
+
+---
+
+### 📋 Executive Meeting Intelligence
+An AI-assisted system for capturing meetings, organizing decisions, tracking action items, and producing executive-ready summaries.
+
+---
+
+### 🎯 InternWatch
+An AI-assisted workflow for researching, organizing, and tracking internship and career opportunities.
+
+---
+
+### 🧠 AI Knowledge Hub
+A centralized knowledge management system for organizing AI tools, prompts, documentation, and learning resources.
+
+---
+
+## 📚 Learning Projects
 
 - AI Security Fundamentals
-- InternWatch
-- AI Learning Journal
 - Python Mini Projects
 - Cybersecurity Labs
 - Prompt Library
-- Ride Home (Future Project)
-
 ## 🌱 My Philosophy
 
-I believe the best way to learn is by building.
+I believe the best way to learn is by building solutions that solve real problems.
 
-Every project in this portfolio represents another step in my journey toward becoming an AI professional.
-
+Every project in this portfolio demonstrates my commitment to creating practical AI workflows, knowledge systems, and operational solutions that help people work smarter.
 > **Build evidence, not just knowledge.**
 
 ---
